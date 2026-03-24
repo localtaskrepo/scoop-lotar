@@ -1,0 +1,21 @@
+{
+  "version": "0.1.0",
+  "description": "Converge markdown specs with local AI coding agent CLIs",
+  "homepage": "https://github.com/localtaskrepo/autospec",
+  "license": "MIT",
+  "architecture": {
+    "64bit": {
+      "url": "https://github.com/localtaskrepo/autospec/releases/download/v0.1.0/autospec-v0.1.0-windows-x64.zip",
+      "hash": "9E4C75436FA3102949724B6CC5904E670A7C8B01BBE457C8D3DFDC8803D004CC"
+    }
+  },
+  "bin": "autospec.exe",
+  "checkver": "github",
+  "autoupdate": {
+    "architecture": {
+      "64bit": {
+        "url": "https://github.com/localtaskrepo/autospec/releases/download/v$version/autospec-v$version-windows-x64.zip"
+      }
+    }
+  }
+}
