@@ -1,16 +1,16 @@
 {
-  "version": "0.14.1",
+  "version": "0.14.2",
   "description": "Local-first task and project management CLI",
   "homepage": "https://github.com/localtaskrepo/lotar",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/localtaskrepo/lotar/releases/download/v0.14.1/lotar-v0.14.1-windows-x64.zip",
-      "hash": "74C28969EB39C4019A682749B129555DAAD41B82167256F4CCA5E2AF4A69A33C"
+      "url": "https://github.com/localtaskrepo/lotar/releases/download/v0.14.2/lotar-v0.14.2-windows-x64.zip",
+      "hash": "F6BF4896929AB97C6A21F5F60373986B669C1CBADB5D66D9D439C0BF0EA582A3"
     },
     "arm64": {
-      "url": "https://github.com/localtaskrepo/lotar/releases/download/v0.14.1/lotar-v0.14.1-windows-arm64.zip",
-      "hash": "0D3A4DC4A08F9293657D15EE7D0FBD613BC2E7F8A2B81E1F6796AE7AC32FAC39"
+      "url": "https://github.com/localtaskrepo/lotar/releases/download/v0.14.2/lotar-v0.14.2-windows-arm64.zip",
+      "hash": "349A6C6C6ACA4454F3F595A0534750B3F5D7EC946C3A1DDB4AB90DD98E12E194"
     }
   },
   "bin": "lotar.exe",
